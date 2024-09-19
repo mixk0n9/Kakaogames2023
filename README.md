@@ -1,7 +1,7 @@
 # Kakaogames2023
 카카오게임즈 산학 프로젝트
 
-<img src="./images/카겜.jpeg" width="900" height="400"/>
+<img src="./images/카겜.jpeg" width="700" height="300"/>
 ----------------------
 
 ### 주제
