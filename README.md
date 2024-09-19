@@ -1,4 +1,4 @@
-# :video_game: Kakaogames2023
+# :video_game: Kakaogames2023 :video_game:
 
 <img src="./images/카겜.jpeg" width="500" height="200"/>
 
@@ -38,11 +38,17 @@
 - 운영팀에서 정의한 영구정지 유저를 정답(true label)으로 가정
 - binary label
 
-3. 데이터 가공
+2. 데이터 가공
 - 재화 보유량 변수: 분석 대상 유저의 마지막 로그로부터 일주일 간의 로그 데이터에 30분 간격으로 재화 보유량을 계산
 - 아이템 시세 관련 변수: 시세보다 비싸게 구매/판매한 횟수, 수량, 거래가격과 시세 차이, 아이템 종류 수
   - 아이템 시세: 아이템의 3일간 거래 가격의 75%, 90% quantile을 시세로 정의(판매/구매)
   
 3. 모델
-  ExtraTrees, XGBoost, GradientBoosting 앙상블
+- ExtraTrees, XGBoost, GradientBoosting을 10-fold cv로 적합하고, 각 모델의 f1 score의 평균을 이용해 가중치 정의
+- ExtraTrees, XGBoost, GradientBoosting의 가중평균 앙상블 모델
 
+4. 결과
+
+||Accuracy|Precision|Recall|F1-score|
+|:---:|:---:|:---:|:---:|:---:|
+|Test|0.9158|0.7164|0.6564|*0.6851*|
