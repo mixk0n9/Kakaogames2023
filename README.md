@@ -1,11 +1,13 @@
-# Kakaogames2023
-카카오게임즈 산학 프로젝트
+# :video_game: Kakaogames2023
 
 <img src="./images/카겜.jpeg" width="500" height="200"/>
+
+카카오게임즈 산학 프로젝트
 
 ----------------------
 
 ## :book: 개요
+
 ### 주제
 
 MMORPG 게임 봇의 특징을 분석하고, 이를 탐지하는 모델 개발
