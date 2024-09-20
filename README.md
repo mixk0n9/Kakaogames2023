@@ -1,8 +1,8 @@
-# :video_game: Kakaogames2023 :video_game:
+# :video_game: 재화 기반 게임 봇 탐지 분석:video_game:
 
 <img src="./kakaogames_image2023/카겜.jpeg" width="500" height="150"/>
 
-카카오게임즈 산학 프로젝트
+2023 카카오게임즈 산학 프로젝트
 
 ----------------------
 
