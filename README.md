@@ -1,6 +1,6 @@
 # :video_game: Kakaogames2023 :video_game:
 
-<img src="./images/카겜.jpeg" width="500" height="180"/>
+<img src="./kakaogames_image2023/카겜.jpeg" width="500" height="150"/>
 
 카카오게임즈 산학 프로젝트
 
@@ -67,5 +67,5 @@ MMORPG 게임 봇의 특징을 분석하고, 이를 탐지하는 모델 개발
 |:---:|:---:|:---:|:---:|:---:|
 |Test|0.9158|0.7164|0.6564|*0.6851*|
 
-kakaogames_image2023/취업 포트폴리오 최종_5.png
-<img src="./images/카겜.jpeg" width="500" height="180"/>
+<img src="./kakaogames_image2023/취업 포트폴리오 최종_5.png" width="800" height="400"/>
+<img src="./kakaogames_image2023/취업 포트폴리오 최종_6.png" width="800" height="400"/>
