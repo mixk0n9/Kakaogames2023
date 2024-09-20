@@ -66,3 +66,6 @@ MMORPG 게임 봇의 특징을 분석하고, 이를 탐지하는 모델 개발
 ||Accuracy|Precision|Recall|F1-score|
 |:---:|:---:|:---:|:---:|:---:|
 |Test|0.9158|0.7164|0.6564|*0.6851*|
+
+kakaogames_image2023/취업 포트폴리오 최종_5.png
+<img src="./images/카겜.jpeg" width="500" height="180"/>
